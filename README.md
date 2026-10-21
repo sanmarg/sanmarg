@@ -1,5 +1,3 @@
-### Hi, I'm Sanmarg 👋...
-
 <div align="center">
 
 <img src="https://github.com/sanmarg.png" width="110" style="border-radius:50%" alt="Sanmarg Sandeep Paranjpe"/>
