@@ -1,37 +1,61 @@
+### Hi, I'm Sanmarg 👋...
 
-<h1 align="center">Hi 👋, I'm Sanmarg Sandeep Paranjpe</h1>
-<h3 align="center">DevOps Engineer | CKA & CKS | Kubernetes • GitOps • Cloud Security | Multi-Cluster Infrastructure at Scale</h3>
+<div align="center">
 
-- 📝 I regularly write articles on [https://sanmarg.hashnode.dev/](https://sanmarg.hashnode.dev/)
-- 📫 How to reach me **ssp.paranjpe@gmail.com**
+<img src="https://github.com/sanmarg.png" width="110" style="border-radius:50%" alt="Sanmarg Sandeep Paranjpe"/>
 
+# Hi, I'm Sanmarg 👋
 
-## 🌟 About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-sanmarg.is--a.dev-2C3E50?style=flat-square)](https://sanmarg.is-a.dev)
+[![Blog](https://img.shields.io/badge/Blog-sanmarg.hashnode.dev-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://sanmarg.hashnode.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanmarg--paranjpe-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanmarg-paranjpe)
+[![Email](https://img.shields.io/badge/Email-ssp.paranjpe@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ssp.paranjpe@gmail.com)
 
-I am a DevOps Engineer working hands‑on with production Kubernetes platforms, including multi‑cluster environments, cloud infrastructure, and DevSecOps practices in real‑world systems.
+</div>
 
-My focus is on building infrastructure that is **reliable, scalable, and secure by design**, with strong emphasis on automation, observability, and production readiness.
+I'm an AI systems and platform engineer. I build and secure the infrastructure that AI systems run on: Kubernetes platforms, cloud networking, observability, and security controls for LLM traffic.
 
----
-
-## 🏆 Key Achievements
-
-- 🌍 Global Rank **11** — GirlScript Summer of Code (GSSoC)
-- 🛡️ Responsibly disclosed a critical cloud vulnerability to the Ministry of Defence, UK
-- 🪙 Awarded the **MOD UK Hacker Coin**
-- ☁️ AWS Certified Cloud Practitioner
-- 🔐 Certified Kubernetes Administrator (CKA)
-- 🛡️ Certified Kubernetes Security Specialist (CKS)
+Currently a Technology Analyst (apprenticeship) at Fiserv, doing Java development in fintech. Before that: AI systems and platform engineering at upGrad, LLMOps and AKS platform work at Finfactor, DevOps at Bipolar Factory.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sanmarg-paranjpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanmarg-paranjpe" height="30" width="40" /></a>
-<a href="https://hashnode.com/@sanmarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sanmarg" height="30" width="40" /></a>
-</p>
+#### What I work on
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+- AI and LLM infrastructure: MCP-based agents, Langfuse tracing and evaluation, GPU observability with DCGM, zero-trust LLM gateways
+- Kubernetes platform and security: EKS and AKS, Karpenter, KEDA, cert-manager, Kubebuilder operators, hardening with CIS benchmarks, AppArmor, Falco, and seccomp
+- Observability: Prometheus, Grafana, EFK, Pyroscope, and VPC Flow Logs → S3 → Athena analytics pipelines
+- Cloud networking and identity: PrivateLink for ECR, IRSA and EKS Pod Identity, Azure Key Vault, Terraform on AWS and Azure
 
----
+#### Featured projects
+
+| Project | What it is |
+|---|---|
+| [LLM-Wall](https://github.com/sanmarg/LLM-Wall) | Zero-trust proxy between applications and LLM providers: policy enforcement, prompt-injection detection, risk scoring, audit logging. Written up in [this post](https://sanmarg.hashnode.dev/how-i-built-a-zero-trust-llm-security-proxy). |
+| [CertAuto](https://github.com/sanmarg/CertAuto) | Go Kubernetes operator (Kubebuilder) that automates the TLS certificate lifecycle across namespaces, Azure Key Vault, and AWS ACM. Leader election, Prometheus metrics, health probes. [Project site](https://sanmarg.github.io/CertAuto/). |
+| [kubernetes-langgraph-bot](https://github.com/sanmarg/kubernetes-langgraph-bot) | Multi-agent (LangGraph) assistant for Kubernetes security auditing. |
+| [SSH-Defence / Sentinel-X](https://github.com/sanmarg/SSH-Defence) | Go SSH honeypot with LLM-driven deception and multi-protocol security monitoring. |
+
+#### Writing
+
+22 posts on Kubernetes security, eBPF, Cilium, and production AI systems. Recent highlights:
+
+- [How I Built a Zero-Trust LLM Security Proxy](https://sanmarg.hashnode.dev/how-i-built-a-zero-trust-llm-security-proxy): the design behind LLM-Wall
+- [Detect Cryptominers on Kubernetes with Custom Falco Rules](https://sanmarg.hashnode.dev/detect-cryptominers-on-kubernetes-with-custom-falco-rules)
+- [Eliminating Bastion Hosts in AWS](https://sanmarg.hashnode.dev/eliminating-bastion-hosts-in-aws-a-cleaner-way-to-access-private-ec2-instances): EC2 Instance Connect Endpoint in practice
+- [Harden Your Managed Kubernetes Cluster](https://sanmarg.hashnode.dev/harden-your-managed-kubernetes-cluster)
+- [From Packets to Identity: How Cilium Rewrites Kubernetes Security](https://sanmarg.hashnode.dev/from-packets-to-identity-how-cilium-rewrites-kubernetes-security)
+
+#### Certifications and recognition
+
+<div align="center">
+
+[![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/efd5c419-2c36-49fa-abeb-999952be05a9)
+[![CKS](https://img.shields.io/badge/CKS-Certified_Kubernetes_Security_Specialist-000000?style=flat-square&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/63e4db1d-9961-4b2d-9fee-9eedd6e4fd48)
+[![AWS CCP](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/56bbd8a6-618f-491f-bdbe-8e9b5cf3d72c/public_url)
+[![UK MOD](https://img.shields.io/badge/UK_MOD-Security_Recognition-0B3D2E?style=flat-square)](https://sanmarg.is-a.dev)
+
+</div>
+
+- CKA, CKS, and AWS Certified Cloud Practitioner ([CKA](https://www.credly.com/badges/efd5c419-2c36-49fa-abeb-999952be05a9), [CKS](https://www.credly.com/badges/63e4db1d-9961-4b2d-9fee-9eedd6e4fd48), and [AWS CCP](https://www.credly.com/badges/56bbd8a6-618f-491f-bdbe-8e9b5cf3d72c/public_url) on Credly)
+- GSSoC 2024: Global Rank 11 of 10,000+ participants, for open-source contributions to cloud-native projects
+- Officially recognized by the UK Ministry of Defence for responsibly disclosing a vulnerability in a cloud system, which was patched within 48 hours
