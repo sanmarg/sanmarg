@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/sanmarg.png" width="110" style="border-radius:50%" alt="Sanmarg Sandeep Paranjpe"/>
+<img src="https://lh3.googleusercontent.com/a/ACg8ocIG6gVI1DF7-AceMPuDZmpLr6yocjX1Y-ymOiB45akbSctVcKQv=s360-c-no" width="110" style="border-radius:50%" alt="Sanmarg Sandeep Paranjpe"/>
 
 # Hi, I'm Sanmarg 👋
 
